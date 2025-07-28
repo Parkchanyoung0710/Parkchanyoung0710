@@ -40,18 +40,11 @@
   </div>
 </div>
 
-<div style="text-align: left;">
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2>
-  <div style="display: flex; gap: 10px;">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=Parkchanyoung0710&bg_color=00000000&title_color=ffffff&text_color=cccccc&show_icons=true&hide_border=true"
-      style="width: 48%;"
-      alt="GitHub Stats"
-    />
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parkchanyoung0710&layout=compact&bg_color=00000000&title_color=ffffff&text_color=cccccc&hide_border=true"
-      style="width: 48%;"
-      alt="Top Languages"
-    />
-  </div>
+<div align="left">
+  <h2>🏅 Stats</h2>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Parkchanyoung0710&show_icons=true&theme=dark"
+    style="width: 48%;"
+    alt="GitHub Stats Dark"
+  />
 </div>
