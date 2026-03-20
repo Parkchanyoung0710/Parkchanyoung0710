@@ -52,15 +52,6 @@
 
 <br />
 
-## 📫 Contact Me
-<div align="left">
-  <a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
-  <a href="https://your-notion-link"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" /></a>
-  <a href="https://velog.io/@your-velog-id"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white" /></a>
-</div>
-
 <br />
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3aa6bb,100:2dd2a9&height=100&section=footer" />
-</div>
+
