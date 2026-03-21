@@ -45,9 +45,8 @@
 <br />
 
 ## 📊 GitHub Stats
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Parkchanyoung0710&show_icons=true&theme=tokyonight&bg_color=fdfdfd&title_color=3aa6bb&icon_color=2dd2a9&border_color=3aa6bb" alt="Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parkchanyoung0710&layout=compact&theme=tokyonight&bg_color=fdfdfd&title_color=3aa6bb&icon_color=2dd2a9&border_color=3aa6bb" alt="Top Langs" height="165" />
 </div>
 
 <br />
