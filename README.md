@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3aa6bb,100:2dd2a9&height=200&section=header&text=Park%20Chan%20Young&fontSize=70&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3aa6bb,100:2dd2a9&height=200&section=header&text=Park%20Chan%20Young&fontSize=70&animation=fadeIn&fontAlignY=35&fontColor=ffffff" />
   
   <div style="margin-top: -20px;">
     <h3>🚀 Constantly learning and growing Frontend Developer</h3>
@@ -52,5 +52,3 @@
 <br />
 
 <br />
-
-
